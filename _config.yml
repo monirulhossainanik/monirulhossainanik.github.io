@@ -1,0 +1,29 @@
+# top level stuff you probably don't need to touch
+highlighter: rouge
+markdown: kramdown
+rdiscount:
+  extensions: [smart]
+permalink: :title.html
+paginate: 5
+plugins: [jekyll-paginate]
+port: 3000
+safe: true
+
+
+# edit here to achieve your personal greatness
+url: http://monirulhossainanik.github.io/
+baseurl: ""
+title: Md. Monirul Hossain
+author: Mohammad Monirul Hossain
+description: Personal projects and resume
+avatar: profile.jpg
+email: monirulhossainanik@gmail.com
+github: monirulhossainanik # username
+twitter:
+linkedin: monirulhossainanik
+stackoverflow:    #e.g: users/2735833/proton1h1
+
+
+
+# needed for travis-ci build
+exclude: [vendor]
