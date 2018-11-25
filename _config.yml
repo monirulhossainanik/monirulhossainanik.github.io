@@ -5,15 +5,18 @@ rdiscount:
   extensions: [smart]
 permalink: :title.html
 paginate: 5
-plugins: [jekyll-paginate]
+plugins:
+       - jekyll-paginate
+       - jekyll-seo-tag
+
 port: 3000
 safe: true
 
 
 # edit here to achieve your personal greatness
-url: http://monirulhossainanik.github.io/
+url: http://monirulhossainanik.github.io
 baseurl: ""
-title: Md. Monirul Hossain
+title: Monirul Hossain
 author: Mohammad Monirul Hossain
 description: Personal projects and resume
 avatar: profile.jpg

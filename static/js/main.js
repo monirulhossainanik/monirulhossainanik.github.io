@@ -1,14 +1,8 @@
-/**
- * Created by fabiomadeira on 25/02/15.
- */
-// jQuery for page scrolling feature
-jQuery(document).ready(function(e) {
-    e(".scroll").click(function(t) {
-        t.preventDefault();
-        e("html,body").animate({
-            scrollTop: e(this.hash).offset().top
-        }, 1e3)
-    })
+
+$(window).on("load", function () {
+    var urlHash = window.location.href.split("#")[1];
+    if (urlHash &&  $('#' + urlHash).length )
+          $('html,body').animate({
+              scrollTop: $('#' + urlHash).offset().top
+          },500);
 });
-
-

@@ -2,22 +2,18 @@
 layout: project
 type: project
 title: Chat Server
-subtitle: A multi threaded chat application
 ---
 
 >A multi threaded chat application
 
-<h3 id="unorderedlist">Technology</h3>
-
-<ul>
-<li>Java</li>
-</ul>
+<h4 id="unorderedlist">Platform / Tools:</h4>
+Java
 
 <div class="blog-title">
-<h3>Source Code: <a href="https://github.com/monirulhossainanik/chatServer"><i class="fa fa-github"></i></a>
-</h3>
+<h4>Source Code: <a href="https://github.com/monirulhossainanik/chatServer"><i class="fa fa-github"></i></a>
+</h4>
 </div>
 
-<hr />
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zr_9HYc8aXk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Zr_9HYc8aXk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>

@@ -10,7 +10,7 @@ body {
 }
 /* Wrapper for page content to push down footer */
 #wrap {
-  padding-bottom: 50px;	
+  padding-bottom: 50px;
   min-height: 100%;
   height: auto;
   /* Negative indent footer by its height */
@@ -132,6 +132,16 @@ body {
   padding-top: -10px;
   text-align: left;
 }
+
+.project {
+  margin: 15px 0;
+  padding: 15px 5px;
+}
+
+.project-title h3 {
+  color: #27A822;
+}
+
 .social {
   padding-top: 12px;
   word-spacing: 25px;
@@ -164,7 +174,7 @@ body {
   font-size: 18px;
 }
 
-/* Footer 
+/* Footer
 -------------------------------------------------- */
 
 .footer {
@@ -180,5 +190,5 @@ div.footer{
 /*.footer {
   height: 50px;
   padding-bottom: 15px;
-  
+
 }*/
