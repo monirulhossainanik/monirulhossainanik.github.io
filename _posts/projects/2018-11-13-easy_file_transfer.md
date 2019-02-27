@@ -4,7 +4,7 @@ type: project
 title: Easy File Transfer
 ---
 
->It's a multi threaded file transferring application developed by java. It runs OS independently, just needs java installed on your system. It can receive/send multiple files simultaneously with keeping folder structure. Both sender and receiver pc need to be present on the same network.
+>It's a multi threaded file transferring application developed by java. It runs OS independently, just needs java installed on your system. It can receive/send multiple files/folders simultaneously with keeping folder structure. Both sender and receiver pc need to be present on the same network.
 
 <h4 id="unorderedlist">Platform / Tools:</h4>
 Java | JavaFX | Concurrency
