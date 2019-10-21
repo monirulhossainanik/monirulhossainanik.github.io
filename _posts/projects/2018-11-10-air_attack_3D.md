@@ -10,7 +10,7 @@ title: Air Attack 3D
 C/C++ | GLUT OpenGL
 
 <div class="blog-title">
-<h4>Source Code: <a href="https://github.com/monirulhossainanik/AirAttack3D"><i class="fa fa-github"></i></a>
+<h4><b>Source Code:</b> <a href="https://github.com/monirulhossainanik/AirAttack3D"><i class="fa fa-github fa-lg"></i></a>
 </h4>
 </div>
 

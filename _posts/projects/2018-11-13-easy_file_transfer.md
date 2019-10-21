@@ -10,7 +10,7 @@ title: Easy File Transfer
 Java | JavaFX | Concurrency
 
 <div class="blog-title">
-<h4>Source Code: <a href="https://github.com/monirulhossainanik/EasyFileTransfer"><i class="fa fa-github"></i></a>
+<h4><b>Download JAR:</b> <a href="{{ site.baseurl }}/static/file/EasyFileTransferFX.jar"><i class="fa fa-cloud-download fa-lg"></i></a>
 </h4>
 </div>
 

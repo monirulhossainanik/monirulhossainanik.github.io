@@ -22,7 +22,7 @@ if there is a stench, a breeze, and a glitter</li>
 Java
 
 <div class="blog-title">
-<h4>Source Code: <a href="https://github.com/monirulhossainanik/WumpusGame"><i class="fa fa-github"></i></a>
+<h4><b>Source Code:</b> <a href="https://github.com/monirulhossainanik/WumpusGame"><i class="fa fa-github fa-lg"></i></a>
 </h4>
 </div>
 

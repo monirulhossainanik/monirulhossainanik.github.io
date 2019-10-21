@@ -12,11 +12,6 @@ Laravel | VueJS | Vuetify | JQuery | Bootstrap | Leaflet JS
 <br>WebSocket: Pusher
 <br>Database: Eloquent ORM (MySQL)
 
-<div class="blog-title">
-<h4>Source Code: <a href="https://github.com/monirulhossainanik/SmartTourism"><i class="fa fa-github"></i></a>
-</h4>
-</div>
-
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/sEXvqqhlPXA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
